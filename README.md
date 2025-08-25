@@ -1,10 +1,10 @@
-# Flutter Clean Architecture Generator
+# Samurai Clean Architecture Generator
 
 🚀 A powerful Visual Studio Code extension that automatically generates Flutter features following Clean Architecture principles with a well-organized folder structure.
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/sangheliosblack.flutter-clean-architecture-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.flutter-clean-architecture-generator)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/sangheliosblack.flutter-clean-architecture-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.flutter-clean-architecture-generator)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/sangheliosblack.flutter-clean-architecture-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.flutter-clean-architecture-generator)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/sangheliosblack.samurai-clean-arch-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.samurai-clean-arch-generator)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/sangheliosblack.samurai-clean-arch-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.samurai-clean-arch-generator)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/sangheliosblack.samurai-clean-arch-generator)](https://marketplace.visualstudio.com/items?itemName=sangheliosblack.samurai-clean-arch-generator)
 
 ## ✨ Features
 
