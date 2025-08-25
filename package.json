@@ -1,8 +1,8 @@
 {
   "name": "samurai-clean-arch-generator",
-  "displayName": "Samurai Clean Architecture Generator",
+  "displayName": "Sanghelios Clean Architecture Generator",
   "description": "Automatically generates Flutter features following Clean Architecture principles with organized folder structure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "assets/icon.png",
   "publisher": "sangheliosblack",
   "author": {

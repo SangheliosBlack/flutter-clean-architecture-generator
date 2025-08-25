@@ -1,4 +1,4 @@
-# Samurai Clean Architecture Generator
+# Sanghelios Clean Architecture Generator
 
 🚀 A powerful Visual Studio Code extension that automatically generates Flutter features following Clean Architecture principles with a well-organized folder structure.
 
@@ -97,6 +97,12 @@ After generating a feature called `authentication`:
 5. Build your UI in `presentation/screens/`
 
 ## 📝 Release Notes
+
+### 0.0.2
+
+- Updated extension name to "Sanghelios Clean Architecture Generator"
+- Improved branding and clarity
+- Same powerful functionality
 
 ### 0.0.1
 
